@@ -69,7 +69,8 @@ li a {
 }
 .section1_text {
     width: 90%;
-    color: #C0B4B4;
+    /* color: #C0B4B4; */
+    color: rgb(255, 255, 255,0.9);
     font-size: 1.655rem;
     font-weight: 700;
     word-spacing: 1mm;
@@ -79,7 +80,8 @@ li a {
 }
 .section2_text{
     width: 95%;
-    color: #C0B4B4;
+    /* color: #C0B4B4; */
+    color: rgb(255, 255, 255,0.9);
     font-size: 1.455rem;
     font-weight: 700;
     margin: 80px auto 0 auto;
